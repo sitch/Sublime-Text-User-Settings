@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AMD Module Editor",
+		"Backbone.js",
+		"Backbone.Marionette",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Case Conversion",
+		"ChangeQuotes",
+		"Clipboard History",
+		"DetectSyntax",
+		"Dictionaries",
+		"DocBlockr",
+		"Git",
+		"Handlebars",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Scalariform",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Tag",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Web Inspector",
+		"ZenCoding"
+	]
+}

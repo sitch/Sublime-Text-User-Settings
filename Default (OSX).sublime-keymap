@@ -1,0 +1,23 @@
+[
+ { "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"} },
+ { "keys": ["alt+up"], "command": "swap_line_up" },
+ { "keys": ["alt+down"], "command": "swap_line_down" },
+ { "keys": ["super+alt+j"], "command": "join_lines" },
+ { "keys": ["shift+super+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+ { "keys": ["super+shift+s"], "command": "save_all" },
+ { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+ { "keys": ["shift+super+y"], "command": "lower_case" },
+ { "keys": ["shift+super+x"], "command": "upper_case" },
+ { "keys": ["shift+super+f4"], "command": "close_all" },
+ { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+ { "keys": ["super+s"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.0,
+            "activate_browser": false,
+            "browser_name" : "Google Chrome"
+    }
+ },
+ { "keys": ["super+shift+1"], "command": "js_format"},
+ { "keys": ["super+shift+a"], "command": "alignment" },
+ {"keys": ["super+shift+w"], "command": "swi_debug" }
+]
