@@ -124,7 +124,7 @@
         "browser": true,
         "node": true,
 
-        "predef": ["App", "define", "require", "ENVIRONMENT", "debug", "describe", "beforeEach", "afterEach", "it", "expect", "buildMap", "onLoad", "nodeRequire"]
+        "predef": ["App", "define", "require", "ENVIRONMENT", "debug", "describe", "beforeEach", "afterEach", "it", "expect", "buildMap", "onLoad", "nodeRequire", "d3", "nv"]
     },
 
     // A list of command line options to send to gjslint. --nobeep is always sent.

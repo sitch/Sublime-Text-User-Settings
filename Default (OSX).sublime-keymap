@@ -18,6 +18,8 @@
     }
  },
  { "keys": ["super+shift+1"], "command": "js_format"},
+ { "keys": ["super+shift+alt+h"], "command": "htmlprettify" },
+ { "keys": ["super+shift+alt+j"], "command": "html_tidy"},
  { "keys": ["super+shift+a"], "command": "alignment" },
- {"keys": ["super+shift+w"], "command": "swi_debug" }
+ { "keys": ["super+shift+w"], "command": "swi_debug" }
 ]
